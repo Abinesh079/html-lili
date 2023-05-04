@@ -1,0 +1,29 @@
+body {
+    background-color: #13f38aa8;
+}
+hr{
+    border-style:none;
+    border-top-style:dotted ;
+    border-color: rgb(155, 148, 148);
+    border-width :8px;
+    width:10%;
+}
+h1{
+    color: red;
+    font-family:monospace;
+}
+h3{
+    color: blueviolet;
+}
+p{
+    color: azure;
+}
+li{
+    color: aliceblue;
+}
+tr{
+    color: yellow;
+}
+label{
+    color:aliceblue;
+}
